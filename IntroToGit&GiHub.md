@@ -62,6 +62,38 @@ git push -u origin main
 
 > -u flag sets the upstream branch to main (default branch)
 
+### Discard Changes
+
+```bash
+git reset --hard origin/main
+```
+
+### Pull Changes from Remote Repository
+
+```bash
+git pull
+```
+
+### Clone Repository
+
+```bash
+git clone git://github.com/USERNAME/REPOSITORY.git
+```
+
+### Untrack Files
+
+```bash
+git rm --cached FILENAME
+```
+
+### .gitignore
+
+```bash
+touch .gitignore
+```
+
+> Add files and directories to .gitignore to ignore them
+
 ## GitHub
 
 ## SSH Key
