@@ -32,3 +32,4 @@
 /home/mrayyan/Desktop/C#/BookmarkApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
 /home/mrayyan/Desktop/C#/BookmarkApp/obj/Debug/net8.0/BookmarkApp.csproj.AssemblyReference.cache
 /home/mrayyan/Desktop/C#/BookmarkApp/obj/Debug/net8.0/Bookmark.7FAAC991.Up2Date
+/home/mrayyan/Desktop/C#/BookmarkApp/obj/Debug/net8.0/BookmarkApp.sourcelink.json

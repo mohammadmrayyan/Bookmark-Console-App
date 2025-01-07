@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookmarkApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5598e8a9a17ed8fe4d364a93a96834ab70f1378e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac4d56eb2122445415ab99e9fc1c31d15576f242")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookmarkApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookmarkApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

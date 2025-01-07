@@ -90,3 +90,5 @@ git commit -S -m "Commit Message"
 ```bash
 git config --global commit.gpgSign true
 ```
+
+> <https://docs.github.com/en/authentication>
