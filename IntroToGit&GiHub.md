@@ -84,3 +84,9 @@ git config --global user.signingkey /PATH/TO/.SSH/KEY.PUB
 ```bash
 git commit -S -m "Commit Message"
 ```
+
+## Always Sign Commits
+
+```bash
+git config --global commit.gpgSign true
+```
