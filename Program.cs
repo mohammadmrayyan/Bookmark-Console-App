@@ -19,9 +19,9 @@ string bookmarkCategory = "Productivity";
 // Console.WriteLine("Bookmark Status: " + bookmarkStatus + ", where N: new, and R: read");
 // Console.WriteLine("Bookmark ID: " + bookmarkID);
 
-// // --------------- Control Structure ---------------
+// --------------- Control Structure ---------------
 // // if
-// if (isBookmarkFavorite == true)
+// if (isBookmarkFavorite)
 // {
 //     Console.WriteLine("This bookmark is favorite");
 // }
@@ -143,9 +143,7 @@ foreach (var item in bookmarks)
 {
     Console.WriteLine(item.URL);
 }
-{
 
-}
 // while loop (for menu)
 string userChoice = "";
 
